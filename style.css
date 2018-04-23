@@ -1,0 +1,28 @@
+.nav.navbar-nav {
+  display: flex;
+  justify-content: center;
+  flex-wrap;
+  text-align: center;
+
+}
+
+
+@media (min-width: 768px) {
+  .navbar-nav {
+    float: none;
+    }
+}
+
+@media (min-width: 768px){
+  .main {
+    font-size: 1.1rem;
+    line-height: 1.25;
+  }
+}
+
+@media (min-width: 768px) {
+  .footer {
+    font-size: 1rem;
+    line-height: 1.25;
+  }
+}
