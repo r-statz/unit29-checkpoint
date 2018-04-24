@@ -6,6 +6,11 @@
 
 }
 
+#logo {
+  width: 200px;
+  height: 125px;
+  padding-top: 20px;
+}
 
 @media (min-width: 768px) {
   .navbar-nav {
